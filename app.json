@@ -2,6 +2,7 @@
   "expo": {
     "name": "sklad",
     "slug": "sklad",
+    "owner": "v1lasce",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.v1lasce.sklad"
     },
     "web": {
       "favicon": "./assets/favicon.png"
